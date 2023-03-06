@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @laszlosomogyimusic
 - 👀 I’m interested in playing bass, writing music, coding
-- 🌱 I’m currently learning JUCE framework
 - 📫 How to reach me www.laszlosomogyimusic.com
 
 <!---
