@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @laszlosomogyimusic
+- 👋 Hi, I’m Laszlo Somogyi
 - 👀 I’m interested in playing bass, writing music, coding
-- 📫 How to reach me laszlo.somogyi@gmail.com
+- 📫 email: laszlo.somogyi@gmail.com
 
 <!---
 laszlosomogyimusic/laszlosomogyimusic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
